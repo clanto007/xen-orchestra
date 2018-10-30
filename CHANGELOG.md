@@ -4,6 +4,8 @@
 
 ### Enhancements
 
+- [Legacy Backup] Restore and File restore functionalities moved to the Backup NG view [#3499](https://github.com/vatesfr/xen-orchestra/issues/3499) (PR [#3610](https://github.com/vatesfr/xen-orchestra/pull/3610))
+
 ### Bug fixes
 
 ### Released packages
