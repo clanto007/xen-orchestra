@@ -20,13 +20,13 @@ const DeprecatedMsg = () => (
 
 const MovingRestoreMessage = () => (
   <div className='alert alert-warning'>
-    <Link to='/backup-ng/restore-legacy'> {_('moveRestoreLegacyMessage')}</Link>
+    <Link to='/backup-ng/restore'> {_('moveRestoreLegacyMessage')}</Link>
   </div>
 )
 
 const MovingFileRestoreMessage = () => (
   <div className='alert alert-warning'>
-    <Link to='/backup-ng/file-restore-legacy'>
+    <Link to='/backup-ng/file-restore'>
       {_('moveFileRestoreLegacyMessage')}
     </Link>
   </div>
